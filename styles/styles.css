@@ -1,8 +1,5 @@
- p {
-color: darkred;
-background-color: blueviolet;
- }
- h1 {
-    color: blue;
-    background-color: black;
+ div {
+   font-size: xx-large;
+   color: rgb(253, 14, 14);
+   text-align: center;
  }
